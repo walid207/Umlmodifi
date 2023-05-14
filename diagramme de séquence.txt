@@ -1,0 +1,8 @@
+L'utilisateur se connecte à la plateforme en entrant ses identifiants de connexion.
+La plateforme vérifie les informations d'identification de l'utilisateur et lui donne accès à son tableau de bord.
+L'utilisateur sélectionne un cours dans son tableau de bord.
+La plateforme récupère les informations sur le cours sélectionné et les affiche à l'utilisateur.
+L'utilisateur commence à suivre le cours.
+La plateforme suit les progrès de l'utilisateur dans le cours et met à jour les informations sur son tableau de bord.
+L'utilisateur termine le cours et la plateforme marque le cours comme étant terminé dans son profil.
+La plateforme envoie une notification à l'utilisateur pour le féliciter d'avoir terminé le cours.
